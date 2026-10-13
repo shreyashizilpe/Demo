@@ -1,4 +1,4 @@
-#Shreyashizilpe-demo
+#Demo
 This is my first Git Repository.
 <br>
 Author-shreyashi (bca student)
